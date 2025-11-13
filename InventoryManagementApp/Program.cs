@@ -2,6 +2,7 @@ using InventoryManagementApp.Components;
 using InventoryManagementApp.Database.AppDbContextModels;
 using Microsoft.EntityFrameworkCore;
 using System;
+//testing git changes
 
 var builder = WebApplication.CreateBuilder(args);
 
