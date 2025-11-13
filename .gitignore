@@ -1,28 +1,8 @@
-# Visual Studio / VS Code
-.vs/
-.vscode/
-
-# Build output
 bin/
 obj/
-
-# User files
+.vs/
+appsettings.json
 *.user
 *.suo
-*.rsuser
-
-# Logs / caches / temp
-*.log
 *.cache
-*.tmp
-
-# Publish / wwwroot output (if you publish into repo)
-wwwroot/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Sensitive configuration
-appsettings.json
-appsettings.Development.json
+*.log
