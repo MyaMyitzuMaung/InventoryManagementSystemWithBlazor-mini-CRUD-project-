@@ -1,8 +1,28 @@
-# Ignore build artifacts
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Build output
 bin/
 obj/
-.vs/
+
+# User files
 *.user
+*.suo
+*.rsuser
+
+# Logs / caches / temp
+*.log
 *.cache
-*.dll
-*.exe
+*.tmp
+
+# Publish / wwwroot output (if you publish into repo)
+wwwroot/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive configuration
+appsettings.json
+appsettings.Development.json
