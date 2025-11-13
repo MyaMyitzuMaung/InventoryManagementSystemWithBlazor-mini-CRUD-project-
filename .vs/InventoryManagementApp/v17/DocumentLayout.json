@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "InventoryManagementApp\\Components\\Features\\Sale\\PageSale.razor",
               "ToolTip": "D:\\ACE\u002BDAT\\T.KKK\\mini_Project\\InventoryManagementApp\\InventoryManagementApp\\Components\\Features\\Sale\\PageSale.razor",
               "RelativeToolTip": "InventoryManagementApp\\Components\\Features\\Sale\\PageSale.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAANoAAAAAAAAAAAAuwOoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-13T08:26:31.555Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "InventoryManagementApp\\Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T07:28:30.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:28:30.426Z"
             }
           ]
         }

@@ -84,3 +84,4 @@ D:\ACE+DAT\T.KKK\mini_Project\InventoryManagementApp\InventoryManagementApp\obj\
 D:\ACE+DAT\T.KKK\mini_Project\InventoryManagementApp\InventoryManagementApp\obj\Debug\net8.0\InventoryManagementApp.pdb
 D:\ACE+DAT\T.KKK\mini_Project\InventoryManagementApp\InventoryManagementApp\obj\Debug\net8.0\InventoryManagementApp.genruntimeconfig.cache
 D:\ACE+DAT\T.KKK\mini_Project\InventoryManagementApp\InventoryManagementApp\obj\Debug\net8.0\ref\InventoryManagementApp.dll
+D:\ACE+DAT\T.KKK\mini_Project\InventoryManagementApp\InventoryManagementApp\obj\Debug\net8.0\InventoryManagementApp.sourcelink.json
